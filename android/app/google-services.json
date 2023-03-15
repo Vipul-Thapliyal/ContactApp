@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "496488768770",
+    "project_id": "contactthirteen-f6cf2",
+    "storage_bucket": "contactthirteen-f6cf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496488768770:android:4102261bc41df4673d4e1b",
+        "android_client_info": {
+          "package_name": "com.example.contactthirteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496488768770-bog5ilukdm2hqrc31h34ptnv4sf6acun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAptJFbKEiF5bjrIAT4I3-nxM0LzX-wJa8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496488768770-bog5ilukdm2hqrc31h34ptnv4sf6acun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
